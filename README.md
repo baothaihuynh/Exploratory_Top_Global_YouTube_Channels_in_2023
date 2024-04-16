@@ -100,17 +100,17 @@ Through a dataset containing 995 of the world's top YouTube channels, analyze th
 
 ## 📊**Process Overview**  
 
-1. Import Libraries Necessary
+I. Import Libraries Necessary
 
-2. Read Information Basic Dataset
+II. Read Information Basic Dataset
 
-3. Select Variables Necessary to Analysis
+III. Select Variables Necessary to Analysis
 
-4. Data Cleaning  
+IV. Data Cleaning  
 
-5. Exploratory Data Analysis
+V. Exploratory Data Analysis
 
-6. Conclusion
+VI. Conclusion
 
 
 ## 💻**Technologies and Tools**  
