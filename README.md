@@ -1,4 +1,4 @@
-# **Exploratory Top Global YouTube Channels in 2023**    
+# 🌏**Exploratory Top Global YouTube Channels in 2023**    
 ![Image](https://i0.wp.com/musically.com/wp-content/uploads/2021/12/YouTube-logo.png?w=1000&ssl=1)
 
 
