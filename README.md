@@ -2,14 +2,13 @@
 ![Image](https://i0.wp.com/musically.com/wp-content/uploads/2021/12/YouTube-logo.png?w=1000&ssl=1)
 
 
-## **You can see and get dataset in this project on** [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023)
-
-
 ## **Project Overview**  
 Hey there, welcome to YouTube! It's not just any social media platform—it's THE place to share videos, and it's used by pretty much everyone, every day. Lots of folks even make a living off it! In Vietnam, it's the third most viewed site, right after Google and Facebook. And globally, it's the runner up to Google.  
 - Ever wonder who's really killing it on YouTube? This dataset has all the juicy details. We've got info on the number of subscribers, video views, how often they post, where they're from, how much they're making, and more. It's all about the top creators. This is a goldmine for data nerds and anyone curious about the world of online content.
   
 - But wait, there's more! We're not just dumping numbers on you. Oh no, we're serving up in-depth analysis. That's right, you'll get to dive deep into the world of YouTube, uncovering trends and insights you won't find anywhere else. So strap in, it's going to be a wild ride. Trust us, this is a dataset you won't want to miss!
+
+*You can see and get dataset in this project on* [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023)
 
 #### **Business Problem:**  
 - What Makes the World's Top YouTube Channels Successful?
