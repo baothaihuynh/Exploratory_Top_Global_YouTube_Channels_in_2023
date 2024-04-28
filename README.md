@@ -12,29 +12,7 @@ Hey there, welcome to YouTube! It's not just any social media platform—it's TH
 
 *You can see and get dataset in this project on* [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023)
 
-#### **Business Problem:**  
-
-- What Makes the World's Top YouTube Channels Successful?
-  
-- What Direction Should Newcomers Take to Join the YouTube Industry?
-
-#### **Problem breakdowns:**  
-
-- What are the trends in user viewing content on YouTube?
-  
-- How do external factors (unemployment rate, university enrollment rate, urban population rate, channel establishment time,...) affect success on YouTube?
-  
-- What are the trends in YouTube monetization?
-
-#### **Success metrics:**  
-
-- Identifying the factors contributing to the success of a YouTube channel (upload frequency, subscribers, views, content, etc.).
-  
-- Percentage breakdown (%) of YouTubers by channel category.
-  
-- User engagement across different categories (views per subscriber).
-
-#### **Project Scope:**  
+## **📌Business Goal:**  
 
 Through a dataset containing 995 of the world's top YouTube channels, analyze the factors contributing to the success of a YouTube channel and user trends. Provide effective recommendations for those looking to build a personal YouTube channel in the future.  
 
